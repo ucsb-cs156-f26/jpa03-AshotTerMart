@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://ucsb-cs156-f26.github.io/jpa03-AshotTerMart>
+Running at: <https://jpa03-ashottermart.dokku-08.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
